@@ -98,3 +98,5 @@ function Table() {
 }
 
 export default Table;
+
+// created by: Syed Muhammad Kumail (Fa-2023-BSCS-284)
